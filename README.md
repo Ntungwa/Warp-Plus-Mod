@@ -1,7 +1,7 @@
 # Warp-Plus-Mod
 ##
 
-**Install XUI-PRO**:dvd::package:
+**Install Warp-Plus-Mod**:dvd::package:
 
 ```
 bash <(wget -qO- raw.githubusercontent.com/Ntungwa/x-ui-pro/refs/heads/master/warp-plus.sh)
