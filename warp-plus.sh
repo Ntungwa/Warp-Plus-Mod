@@ -69,7 +69,7 @@ EOF
 ######
 rm -rf ~/.cache/warp-plus
 service_enable "warp-plus"; 
-msg "\nEnter after 10 seconds:\ncurl --socks5-hostname 127.0.0.1:8086 https://ipapi.co/json/\n"
+msg "\nEnter after 10 seconds:\ncurl --socks5-hostname 127.0.0.1:8086 https://ipinfo.io/json/\n"
 msg_inf "warp-plus settings changed!"
 exit 1
 fi
